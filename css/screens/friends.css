@@ -27,3 +27,7 @@
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.5);
 }
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
+}
